@@ -1,0 +1,63 @@
+name: TLK2.0
+version: 2.0
+author: icebreaker
+main: Main.Main
+
+commands:
+  msg:
+      usage: /msg
+      description: allow messagings other players
+  rank:
+      usage: /rank
+      description: give players ranks
+  gm:
+      usage: /gm
+      description: give player gamemenu item
+  deathperks:
+      usage: /deathperks
+      description: choose a deathperk
+  dp:
+      usage: /dp
+      description: choose a deathperk
+  spells:
+      usage: /spells
+      description: open spells upgrade GUI
+  sp:
+      usage: /sp
+      description: check your skill points
+  build:
+       usage: /build
+       description: ability to build
+  icesay:
+       usage: /icesay
+       description: idk
+  kirdowsay:
+       usage: /kirdowsay
+       description: idk
+  ethsay:
+       usage: /ethsay
+       description: idk
+  wizsay:
+       usage: /wizsay
+       description: idk
+  jabsay:
+       usage: /wizsay
+       description: idk
+  afk:
+       usage: /afk
+       description: afk mark
+  warp:
+       usage: /warp
+       description: warp to certain locations
+  start:
+         usage: /start
+         description: start game
+  shout:
+           usage: /shout
+           description: shout
+  recall:
+             usage: /recall
+             description: recall back to your base
+  med:
+               usage: /med
+               description: meditate for full 10 seconds to restore back all your health and mana
